@@ -2,6 +2,8 @@
 
 **Ја добив групата на код: 6**
 
+*Control flow graph* за функција која за дадена листа од агли истите ги претвора во секунди. 
+
 ![image](https://user-images.githubusercontent.com/52135455/84435853-c748ca00-ac32-11ea-8378-b59fc6e67c3d.png)
 
 Броевите на јазлите одговараат на соодветните линии код дадени во продолжение:
@@ -54,5 +56,10 @@
 
 ### Тест-случаи според Multiple condition
 
+Разгледани се можностите за сите услови поединечно, со соодветно можни тест случаи. 
+
 ![image](https://user-images.githubusercontent.com/52135455/84443244-7ee3d900-ac3f-11ea-94e3-a808a5ce2452.png)
 
+### Unit тестови во Gradle
+
+Направени се со креирање на класа во src/test/java. Имплементирани се два теста и тоа еден според Every Statement критериумот, а другиот според Multiple conditon. Користена библиотека за двата теста е org.junit.jupiter.api.Assertions, при што користени се функциите за тест AssertThrows со AssertTrue и assertEquals.
