@@ -52,3 +52,7 @@
 
 ![image](https://user-images.githubusercontent.com/52135455/84441744-9cfc0a00-ac3c-11ea-91fa-81858d2d4a46.png)
 
+### Тест-случаи според Multiple condition
+
+![image](https://user-images.githubusercontent.com/52135455/84443244-7ee3d900-ac3f-11ea-94e3-a808a5ce2452.png)
+
