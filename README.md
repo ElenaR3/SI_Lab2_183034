@@ -1,6 +1,6 @@
 # SI_Lab2_183034
 
-Ја добив групата на код: 6
+**Ја добив групата на код: 6**
 
 ![image](https://user-images.githubusercontent.com/52135455/84435853-c748ca00-ac32-11ea-8378-b59fc6e67c3d.png)
 
