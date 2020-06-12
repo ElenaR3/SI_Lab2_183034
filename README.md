@@ -62,4 +62,4 @@
 
 ### Unit тестови во Gradle
 
-Направени се со креирање на класа во src/test/java. Имплементирани се два теста и тоа еден според Every Statement критериумот, а другиот според Multiple conditon. Користена библиотека за двата теста е org.junit.jupiter.api.Assertions, при што користени се функциите за тест AssertThrows со AssertTrue и assertEquals.
+Направени се со креирање на класа во src/test/java. Имплементирани се два теста и тоа еден според Every Statement критериумот, а другиот според Multiple conditon. Користена библиотека за двата теста е org.junit.jupiter.api.Assertions, при што користени се функциите за тест AssertThrows со AssertTrue, assertEquals и assertThat (за еднаквост на листите). 
