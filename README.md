@@ -86,9 +86,9 @@
 
 1. првиот подуслов е false, па вредноста на вториот е неважна, затоа што не се ни зема во предвид (И). Пример: minutes=5.
 
-2.      првиот подуслов е true, a вториот false.Пример: seconds= 50.
+2. првиот подуслов е true, a вториот false.Пример: seconds= 50.
 
-3.      кога и двата се true. Пример: minutes=0, seconds=0.
+3. кога и двата се true. Пример: minutes=0, seconds=0.
 
 ![image](https://user-images.githubusercontent.com/52135455/84443244-7ee3d900-ac3f-11ea-94e3-a808a5ce2452.png)
 
